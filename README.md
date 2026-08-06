@@ -43,6 +43,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0148-sort-list) |
@@ -51,6 +52,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0148-sort-list) |
 ## Recursion
