@@ -28,6 +28,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0143-reorder-list) |
+| [0445-add-two-numbers-ii](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -48,6 +49,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0148-sort-list) |
+| [0445-add-two-numbers-ii](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0148-sort-list) |
+## Math
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
