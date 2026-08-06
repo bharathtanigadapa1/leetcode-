@@ -43,6 +43,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0143-reorder-list) |
@@ -58,6 +59,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0143-reorder-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
