@@ -29,11 +29,13 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0143-reorder-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -45,6 +47,7 @@
 | [0143-reorder-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0148-sort-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +57,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0143-reorder-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
