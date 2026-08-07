@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0410-split-array-largest-sum](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0410-split-array-largest-sum) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1019-next-greater-node-in-linked-list) |
@@ -104,4 +105,12 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0451-sort-characters-by-frequency) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
