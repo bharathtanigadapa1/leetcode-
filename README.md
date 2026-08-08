@@ -7,6 +7,7 @@
 | [0078-subsets](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0169-majority-element](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0410-split-array-largest-sum) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1019-next-greater-node-in-linked-list) |
 ## Binary Search
@@ -74,11 +75,13 @@
 | ------- |
 | [0148-sort-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0451-sort-characters-by-frequency) |
 ## Merge Sort
 |  |
@@ -92,6 +95,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
@@ -100,15 +104,18 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0451-sort-characters-by-frequency) |
 ## Backtracking
 |  |
@@ -122,4 +129,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0169-majority-element) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
