@@ -6,6 +6,7 @@
 | ------- |
 | [0078-subsets](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0169-majority-element](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0169-majority-element) |
 | [0410-split-array-largest-sum](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0410-split-array-largest-sum) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1019-next-greater-node-in-linked-list) |
 ## Binary Search
@@ -72,10 +73,12 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0451-sort-characters-by-frequency) |
 ## Merge Sort
 |  |
@@ -88,6 +91,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
@@ -104,6 +108,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0451-sort-characters-by-frequency) |
 ## Backtracking
 |  |
@@ -113,4 +118,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0078-subsets) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
