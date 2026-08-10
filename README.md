@@ -10,6 +10,7 @@
 | [0347-top-k-frequent-elements](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0410-split-array-largest-sum) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1019-next-greater-node-in-linked-list) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0169-majority-element](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0451-sort-characters-by-frequency) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
@@ -163,4 +165,8 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0111-minimum-depth-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
