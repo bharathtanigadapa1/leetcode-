@@ -143,6 +143,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0572-subtree-of-another-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -173,4 +176,12 @@
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
