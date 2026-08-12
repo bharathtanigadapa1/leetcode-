@@ -12,6 +12,7 @@
 | [0692-top-k-frequent-words](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0692-top-k-frequent-words) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1019-next-greater-node-in-linked-list) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0692-top-k-frequent-words) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
 | ------- |
@@ -183,6 +185,7 @@
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String Matching
 |  |
 | ------- |
