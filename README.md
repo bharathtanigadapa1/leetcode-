@@ -24,6 +24,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
 |  |
@@ -35,6 +36,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0143-reorder-list) |
 | [0227-basic-calculator-ii](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0227-basic-calculator-ii) |
+| [0402-remove-k-digits](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -43,6 +45,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0402-remove-k-digits) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Range Minimum/Maximum Query
@@ -110,6 +113,7 @@
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0227-basic-calculator-ii) |
+| [0402-remove-k-digits](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
