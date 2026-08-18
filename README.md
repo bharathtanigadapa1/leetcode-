@@ -164,6 +164,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -183,6 +184,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -214,4 +216,5 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
