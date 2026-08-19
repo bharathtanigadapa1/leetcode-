@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0169-majority-element](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0169-majority-element) |
@@ -106,6 +107,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0451-sort-characters-by-frequency) |
@@ -217,4 +219,8 @@
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
