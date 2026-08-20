@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
@@ -23,10 +24,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0455-assign-cookies) |
