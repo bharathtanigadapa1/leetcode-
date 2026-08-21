@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0078-subsets) |
@@ -24,11 +25,13 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0410-split-array-largest-sum) |
