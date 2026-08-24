@@ -40,6 +40,7 @@
 | [0402-remove-k-digits](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0455-assign-cookies) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2706-buy-two-chocolates](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2706-buy-two-chocolates) |
 ## Prefix Sum
 |  |
@@ -136,6 +137,7 @@
 | [0402-remove-k-digits](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0692-top-k-frequent-words) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -243,4 +245,8 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0455-assign-cookies) |
+## Enumeration
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
