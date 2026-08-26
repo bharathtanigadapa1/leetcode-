@@ -21,6 +21,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2706-buy-two-chocolates](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2706-buy-two-chocolates) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/bharathtanigadapa1/leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | [0692-top-k-frequent-words](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0692-top-k-frequent-words) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/bharathtanigadapa1/leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
