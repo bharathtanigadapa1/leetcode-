@@ -167,6 +167,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0078-subsets) |
+| [0693-binary-number-with-alternating-bits](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0693-binary-number-with-alternating-bits) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
