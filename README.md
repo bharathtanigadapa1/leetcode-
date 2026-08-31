@@ -27,6 +27,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0410-split-array-largest-sum](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
@@ -171,6 +172,7 @@
 | ------- |
 | [0078-subsets](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0693-binary-number-with-alternating-bits](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0693-binary-number-with-alternating-bits) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -187,6 +189,7 @@
 | [0110-balanced-binary-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
@@ -207,6 +210,7 @@
 | [0110-balanced-binary-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
