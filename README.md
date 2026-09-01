@@ -106,6 +106,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -174,6 +175,7 @@
 | ------- |
 | [0078-subsets](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0693-binary-number-with-alternating-bits](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0693-binary-number-with-alternating-bits) |
 ## Boyer–Moore Majority Vote Algorithm
