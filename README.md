@@ -41,6 +41,7 @@
 | [0045-jump-game-ii](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0410-split-array-largest-sum) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0410-split-array-largest-sum](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0455-assign-cookies) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2706-buy-two-chocolates](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2706-buy-two-chocolates) |
 ## Prefix Sum
 |  |
@@ -98,6 +100,7 @@
 | [0148-sort-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0455-assign-cookies) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Recursion
 |  |
 | ------- |
@@ -153,6 +156,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0692-top-k-frequent-words) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
