@@ -23,6 +23,7 @@
 | [0692-top-k-frequent-words](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0692-top-k-frequent-words) |
 | [0875-koko-eating-bananas](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0875-koko-eating-bananas) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1019-next-greater-node-in-linked-list) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2706-buy-two-chocolates](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2706-buy-two-chocolates) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -35,12 +36,14 @@
 | [0222-count-complete-tree-nodes](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0410-split-array-largest-sum](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0875-koko-eating-bananas) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0410-split-array-largest-sum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
@@ -144,6 +147,7 @@
 | [0347-top-k-frequent-elements](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0692-top-k-frequent-words) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bharathtanigadapa1/leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
@@ -243,6 +247,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String Matching
