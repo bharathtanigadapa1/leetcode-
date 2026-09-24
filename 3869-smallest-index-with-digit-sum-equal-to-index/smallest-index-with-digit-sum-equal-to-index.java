@@ -8,8 +8,8 @@ class Solution {
                 sum+=num%10;
                 num/=10;
             }
-            if(sum==i && sum<smallestSoFar) smallestSoFar=sum;
+            if(sum==i) return i;
         }
-        return smallestSoFar==Integer.MAX_VALUE?-1:smallestSoFar;
+        return -1;
     }
 }
