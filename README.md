@@ -24,6 +24,7 @@
 | [0875-koko-eating-bananas](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0875-koko-eating-bananas) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1019-next-greater-node-in-linked-list) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2706-buy-two-chocolates](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2706-buy-two-chocolates) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -44,6 +45,7 @@
 | [0055-jump-game](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0410-split-array-largest-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
@@ -118,6 +120,7 @@
 | [0169-majority-element](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sorting
 |  |
 | ------- |
@@ -139,6 +142,7 @@
 | [0066-plus-one](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0066-plus-one) |
 | [0227-basic-calculator-ii](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0227-basic-calculator-ii) |
 | [0445-add-two-numbers-ii](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0445-add-two-numbers-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Hash Table
 |  |
 | ------- |
@@ -213,6 +217,7 @@
 | [0572-subtree-of-another-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -234,6 +239,7 @@
 | [0572-subtree-of-another-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## DP on Trees
 |  |
 | ------- |
@@ -267,6 +273,7 @@
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Matrix
 |  |
 | ------- |
@@ -281,4 +288,20 @@
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bharathtanigadapa1/leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
