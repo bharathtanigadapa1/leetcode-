@@ -7,7 +7,10 @@ class Solution {
             boolean valid=true;
             for(int j=0;j<m;j++){
                 int difference=Math.abs(arr1[i]-arr2[j]);
-                if(difference <= d) valid=false;
+                if(difference <= d){
+                    valid=false;
+                    break;
+                }
             }
             if(valid) count++;
         }
