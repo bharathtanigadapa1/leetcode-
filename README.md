@@ -25,6 +25,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1019-next-greater-node-in-linked-list) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2706-buy-two-chocolates](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2706-buy-two-chocolates) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bharathtanigadapa1/leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -171,6 +172,7 @@
 | [0347-top-k-frequent-elements](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/bharathtanigadapa1/leetcode-/tree/master/0692-top-k-frequent-words) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -304,4 +306,12 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Simulation
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/bharathtanigadapa1/leetcode-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
